@@ -1,0 +1,3 @@
+﻿using ValutaConverter;
+
+Converter.converterRun();
